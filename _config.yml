@@ -10,10 +10,9 @@ relative_links:
   collections: true
 
 navbar-links:
-  "Hii": "hii.html"
 
 language: us-UTF-8
-title: Hii
+title: HiiChris
 gh-repo: 
 gh-badge: start
 nav-short: true
