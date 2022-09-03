@@ -1,0 +1,33 @@
+---
+remote_theme: daattali/beautiful-jekyll
+layout: page
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+
+navbar-links:
+  "Hii": "hii.html"
+
+language: us-UTF-8
+title: Hii
+avatar: ""
+gh-repo: 
+gh-badge: start
+nav-short: true
+baseurl: /
+
+site-css:
+  - 
+
+site-js:
+  - 
+
+
+include:
+  - README.md
+
+---
